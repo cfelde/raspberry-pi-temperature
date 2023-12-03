@@ -2,7 +2,7 @@
 
 I have a Raspberry Pi 4 running 24/7, doing various infrequent activities.
 
-It's passively cooled, which means that it's idle temperature is impacted by the ambient room
+It's passively cooled, which means that its idle temperature is impacted by the ambient room
 temperature.
 
 Could it then be possible to create a model where, by measuring the Raspberry Pi temperature,
